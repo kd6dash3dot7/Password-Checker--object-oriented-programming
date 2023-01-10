@@ -1,0 +1,42 @@
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.exe
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.deps.json
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.json
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.dev.json
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\source\repos\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.AssemblyReference.cache
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfoInputs.cache
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfo.cs
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\source\repos\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.genruntimeconfig.cache
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.exe
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.deps.json
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.json
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.dev.json
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\Desktop\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.AssemblyReference.cache
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfoInputs.cache
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfo.cs
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\Desktop\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.genruntimeconfig.cache
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.exe
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.deps.json
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.json
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.runtimeconfig.dev.json
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\bin\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.AssemblyReference.cache
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfoInputs.cache
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.AssemblyInfo.cs
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.dll
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.pdb
+C:\Users\SAMET\Desktop\NDP_üç basamaklı sayılar\NDP Odev 1\obj\Debug\netcoreapp3.1\NDP Odev 1.genruntimeconfig.cache
